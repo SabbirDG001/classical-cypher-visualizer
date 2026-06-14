@@ -1,0 +1,6 @@
+{
+  "name": "Classical Cipher Visualizer",
+  "description": "An interactive, educational visualization platform for exploring classical cryptographic ciphers with step-by-step trace guides and encryption engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
